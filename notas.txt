@@ -4,3 +4,4 @@ Notas del proyecto
 - Aprender a crear forks en GitHub
 - Aprender a crear pull requests
 - Colaborar con un compañero mediante GitHub
+Aportación de Sergio Anton Santa-Maria
