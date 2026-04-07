@@ -1,0 +1,6 @@
+Proyecto de colaboración Git
+=============================
+
+Autor: Jorge Peralta San Emeterio
+Asignatura: Sistemas Informáticos
+Descripción: Repositorio creado para practicar la colaboración en repositorios remotos con Git y GitHub.

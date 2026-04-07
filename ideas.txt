@@ -1,0 +1,6 @@
+Ideas para el proyecto
+======================
+
+1. Usar ramas para organizar el trabajo
+2. Documentar todos los cambios en los commits
+3. Revisar los pull requests del compañero con cuidado
